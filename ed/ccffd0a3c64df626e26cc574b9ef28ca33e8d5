@@ -1,0 +1,21 @@
+django_tenants/tests/test_tenants.py
+  s_0069010fad5a58::t_400f8faade2cee 262-295
+django_tenants/postgresql_backend/base.py
+  s_0069010fad5a58::t_f6363da1dbaf42 96-104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "edccffd0a3c64df626e26cc574b9ef28ca33e8d5",
+  "prompts": {},
+  "sessions": {
+    "s_0069010fad5a58": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "43d0f002-8381-45dd-b323-8c602ef3ad5d",
+        "model": "claude-fable-5"
+      },
+      "human_author": "amirshokh <amirshoxmuxitdinov@gmail.com>"
+    }
+  }
+}
